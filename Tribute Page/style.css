@@ -1,0 +1,28 @@
+#title {
+  text-align: center;
+}
+
+#bio {
+  text-align: center;
+}
+
+#img-caption {
+  text-align: center;
+}
+#main {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  margin: 20px auto;
+  padding: 15px;
+  border: 10px solid;
+}
+#image {
+  display: block;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  Width: 50%:
+}
+
+.quote {
+  text-align: center;
+}
